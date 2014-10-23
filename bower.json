@@ -1,0 +1,20 @@
+{
+  "name": "tuto-highcharts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rogeriopradoj/tuto-highcharts",
+  "authors": [
+    "Rogerio Prado de Jesus <rogeriopradoj@gmail.com>"
+  ],
+  "keywords": [
+    "tutorial"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
