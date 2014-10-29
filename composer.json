@@ -1,0 +1,13 @@
+{
+    "name": "rogeriopradoj/tuto-highcharts",
+    "description": "Learning https://www.packtpub.com/big-data-and-business-intelligence/learning-highcharts",
+    "require": {
+        "ghunti/highcharts-php": "*"
+    },
+    "authors": [
+        {
+            "name": "Rogerio Prado de Jesus",
+            "email": "rogeriopradoj@gmail.com"
+        }
+    ]
+}
